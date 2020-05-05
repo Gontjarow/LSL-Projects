@@ -27,6 +27,7 @@ Collectively, scripts are scheduled a timeslice during each server frame after e
 ![For example](http://puu.sh/FGByP/b7d4377d1e.png)
 
 The official Wiki: http://wiki.secondlife.com/wiki/LSL_Portal
+
 The official website: https://secondlife.com/
 
 I am not affiliated with Linden Lab.

@@ -23,6 +23,7 @@ default // State
 ```
 
 Collectively, scripts are scheduled a timeslice during each server frame after everything else has been processed, such as avatar (agent/user) interactions and physics simulation. Because of this, not all scripts are guaranteed to run each frame. A single server can also host multiple "regions" so the "total frame time" is split between each region.
+
 ![For example](http://puu.sh/FGByP/b7d4377d1e.png)
 
 The official Wiki: http://wiki.secondlife.com/wiki/LSL_Portal

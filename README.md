@@ -25,12 +25,13 @@ default // State
 ### Data Types
 - All data types are pass-by-value.
 - All data types are zero-initialized.
+- Variables are declated like: `type identifier = value` or `integer num_var = 1;`
 - integer
   - Signed 32-bit value (-2147483648, +2147483647)
-  - Supports hexadecimal notation, eg. `0x80000000`
+  - Supports hexadecimal notation, eg: `0x80000000`
 - float
   - 32-bit IEEE-754 floating point number
-  - Supports scientific notation, eg. `3.402823466E+38`
+  - Supports scientific notation, eg: `3.402823466E+38`
   - `5.0`, `5`, and `.5` are all valid floats
 - string
   - Strings are enclosed in double-quotes: `"Hello, world!"`

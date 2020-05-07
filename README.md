@@ -1,6 +1,8 @@
 # LSL-Projects
 Collection of LSL scripts written by me.
 
+Please visit the Wiki for explanations on what all of the different scripts do, when they were written, my inspiration, thought process, challenges, etc.
+
 ## What is LSL?
 LSL stands for Linden Scripting Language. It's a proprietary scripting language designed for Second Life, by Linden Lab.
 

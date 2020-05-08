@@ -21,7 +21,6 @@ default
 
         vector avatar_position = llDetectedPos(0);
         vector avatar_direction = llVecNorm(avatar_position - llGetPos()) / llGetRot();
-        llOwnerSay((string)avatar_direction);
 
         // Assumes the front face (1) of the door is towards the outside.
         if( avatar_direction.x > 0 )
